@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I haven't had much of a public presence of late, but I'm working to change that. In the meantime, you can find me at [macksmind.io](https://macksmind.io), [Twitter](https://twitter.com/MacksMind), or [LinkedIn](https://www.linkedin.com/in/mackearnhardt/).
+*I haven't had much of a public presence of late, but I'm working to change that.*
 
 ## Current Working On 👨‍💻
 - My [CV](https://macksmind.io/resume/), because **I'm looking for a new Gig** 💼
