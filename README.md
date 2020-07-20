@@ -4,7 +4,7 @@ I haven't had much of a public presence of late, but I'm working to change that.
 
 ## Current Working On 👨‍💻
 - My [CV](https://macksmind.io/resume/), because **I'm looking for a new Gig** 💼
-- CloudFormation template to deploy a static website to S3 https://gist.github.com/MacksMind/c1dbc34d92aed1db892d23e758aa4637
+- CloudFormation template to [deploy a static website to S3](https://gist.github.com/MacksMind/c1dbc34d92aed1db892d23e758aa4637)
 
 
 <!--
