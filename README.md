@@ -3,9 +3,10 @@
 *I haven't had much of a public presence of late, but I'm working to change that.*
 
 ## Current Working On 👨‍💻
-- My [CV](https://macksmind.io/resume/), because **I'm looking for a new Gig** 💼
-- CloudFormation template to [deploy a static website to S3](https://www.macksmind.io/aws/2020/07/20/deploy-static-website-to-amazon-s3.html)
-
+- 👨‍💻 I’m currently working on a POC for K-8 distance learning
+- 🌱 I’m currently learning [Elixir](https://elixir-lang.org/)
+- 💬 Ask me about [auto-deploying a static website to S3](https://www.macksmind.io/aws/2020/07/20/deploy-static-website-to-amazon-s3.html)
+- ⚡ Fun fact: I have a Private Pilot license and aspire to own an aircraft 🛩️
 
 <!--
 **MacksMind/MacksMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
