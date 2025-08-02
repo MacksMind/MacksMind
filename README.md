@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-*I haven't had much of a public presence of late, but I'm working to change that.*
-- 👨‍💻 I’m currently working on a POC for K-8 distance learning
-- 🌱 I’m currently learning [Elixir](https://elixir-lang.org/)
-- 💬 Ask me about [auto-deploying a static website to S3](https://www.macksmind.io/aws/2020/07/20/deploy-static-website-to-amazon-s3.html)
-- ⚡ Fun fact: I have a Private Pilot license and aspire to own an aircraft 🛩️
+- 📣 Looking for Fractional, Interim, or Project roles—language agnostic
+- 🌱 Currently learning [Elixir](https://elixir-lang.org/)
+- 🔭 Working on a personal CRM, but slowly since I'm learning Elixir instead of vibe coding
+- ⚡ Fun fact: I have an RV and have worked remote as far from home as Lake Superior, Key West, and Rhode Island. 🚍
 
 <!--
 **MacksMind/MacksMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
