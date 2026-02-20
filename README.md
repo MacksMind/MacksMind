@@ -3,7 +3,7 @@
 - 🚀 Fractional CTO at Agile Reasoning — helping SaaS founders 🔧fix broken engineering orgs without adding headcount
 - 🤖 Building with AI daily — not ✨YOLO✨ vibe coding, but applying 30+ years of engineering 🧠judgment to know when and how to use it
 - 🎯 Ask me about fearless deploys, tech roadmaps aligned to revenue, or why your team ships slow🐌
-- 🚍 Fun fact: I have an motorhome and have worked remote as far from home as Lake Superior🌊, Key West🏝️, and Rhode Island🦞
+- 🚍 Fun fact: I have a motorhome and have worked remote as far from home as Lake Superior🌊, Key West🏝️, and Rhode Island🦞
 
 <!--
 **MacksMind/MacksMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
